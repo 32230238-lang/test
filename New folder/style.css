@@ -253,11 +253,11 @@ body {
 
 .hero-bg-circle {
     position: absolute;
-    width: 550px;
-    height: 550px;
+    width: 500px;
+    height: 500px;
     background: linear-gradient(135deg, #a8d4ff 0%, #66b3ff 100%);
     border-radius: 50%;
-    bottom: 0;
+    bottom: -140px;
     right: -50px;
     transform: none;
     z-index: 0;
